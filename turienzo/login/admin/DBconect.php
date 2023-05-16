@@ -2,7 +2,7 @@
 $db_host=""; //localhost server 
 $db_user="";	//database username
 $db_password="";	//database password   
-$db_name="turienzo";	//database name
+$db_name="";	//database name
 
 try
 {
