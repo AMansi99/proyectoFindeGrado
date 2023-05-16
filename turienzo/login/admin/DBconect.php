@@ -1,6 +1,6 @@
 <?php
-$db_host="localhost"; //localhost server 
-$db_user="root";	//database username
+$db_host=""; //localhost server 
+$db_user="";	//database username
 $db_password="";	//database password   
 $db_name="turienzo";	//database name
 
